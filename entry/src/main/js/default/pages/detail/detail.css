@@ -1,0 +1,44 @@
+.container {
+    justify-content:flex-start;
+    align-items: center;
+    display: flex;
+    width:800px;
+    height:480px;
+    backgroup-color:black;
+    flex-direction:column;
+}
+.title {
+    width: 900px;
+    height: 230px;
+    font-size: 50px;
+    text-align: center;
+    border-radius: 20px;
+    margin-top: 50px;
+}
+
+.but {
+    width: 500px;
+    height: 100px;
+    text-align: center;
+    font-size: 40px;
+    flex-direction:row;
+
+}
+
+.but-style {
+    width: 200px;
+    height: 100px;
+    text-align: center;
+    font-size: 40px;
+    margin-left: 30px;
+    background-color: blueviolet;
+}
+
+.but-style-home {
+    width: 200px;
+    height: 100px;
+    text-align: center;
+    font-size: 40px;
+    margin-left: 150px;
+    background-color: blueviolet;
+}

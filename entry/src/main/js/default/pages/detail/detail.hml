@@ -1,0 +1,12 @@
+<div class="container" style="width: {{width}}; height: {{height}};">
+
+    <div class='title'>
+        <text class="title">This is the Second page.</text>
+    </div>
+
+    <div  class="but">
+        <input type="button" class="but-style" value="上一页" onclick="Pre_Page()"></input>
+        <input type="button" class="but-style" value="下一页" onclick="Next_PicPage()"></input>
+    </div>
+
+</div>

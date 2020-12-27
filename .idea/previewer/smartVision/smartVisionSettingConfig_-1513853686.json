@@ -1,0 +1,23 @@
+{
+ "setting": {
+  "1.0.0": {
+   "Resolution": {
+    "args": {
+     "Resolution": "960*480"
+    }
+   },
+   "DeviceType": {
+    "args": {
+     "DeviceType": "smartVision"
+    }
+   }
+  },
+  "1.0.1": {
+   "Language": {
+    "args": {
+     "Language": "zh-CN"
+    }
+   }
+  }
+ }
+}
