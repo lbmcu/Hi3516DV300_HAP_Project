@@ -2,16 +2,16 @@
 
 
     <div class='title' >
-        <text class="title" onclick="Change()"> Hello {{title}} </text>
+        <text class="title" onclick="Change"> Hello {{title}} </text>
     </div>
 
     <div  class="but">
-        <input type="button" class="but-style" value="上一页" onclick="Pic_Page()"></input>
-        <input type="button" class="but-style" value="下一页" onclick="Detail_Page()"></input>
+        <input type="button" class="but-style" value="上一页" onclick="Pic_Page"></input>
+        <input type="button" class="but-style" value="下一页" onclick="Detail_Page"></input>
     </div>
 
     <div class="but">
-        <input type="button" class="but-style-home" value="首页" onclick="Home_Page()"></input>
+        <input type="button" class="but-style-home" value="首页" onclick="Home_Page"></input>
     </div>
 
 </div>

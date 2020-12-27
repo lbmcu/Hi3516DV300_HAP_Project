@@ -77,23 +77,23 @@ export default {
         switch(time)
         {
             case 0:
-            this.Image = '/common/sky.png';
+                this.Image = '/common/sky.png';
             break;
 
             case 1:
-            this.Image = '/common/aaa.png';
+                this.Image = '/common/aaa.png';
             break;
 
             case 2:
-            this.Image = '/common/bbb.png';
+                this.Image = '/common/bbb.png';
             break;
 
             case 3:
-            this.Image = '/common/ccc.png';
+                this.Image = '/common/ccc.png';
             break;
 
             case 4:
-            this.Image = '/common/ddd.png';
+                this.Image = '/common/ddd.png';
             break;
         }
 
